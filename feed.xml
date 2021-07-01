@@ -3,7 +3,7 @@
     <title>XyberBlogs</title>
     <link href="https://blogs.xyberneo.com/feed.xml" rel="self" />
     <link href="https://blogs.xyberneo.com" />
-    <updated>2021-07-01T21:23:27+05:30</updated>
+    <updated>2021-07-01T21:26:39+05:30</updated>
     <author>
         <name>Aditya Chaturvedi</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://blogs.xyberneo.com/app-inventor-and-its-distributions-or-xyberneo/"/>
         <id>https://blogs.xyberneo.com/app-inventor-and-its-distributions-or-xyberneo/</id>
+            <category term="AI2"/>
 
-        <updated>2021-07-01T21:23:27+05:30</updated>
+        <updated>2021-07-01T21:26:39+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blogs.xyberneo.com/media/posts/3/PfLREOhZSm60VskciHxazGUFcJ9Dy52c6Sexgd3Sad-0as4k_PMsPnr3Mm9DAGZeeRHdt2G0HcY37XdpAkfPbDeSppBtJo8N9mi27ECGw8UfKh7EKZROqs4Ws2048-2.png" alt="" />
                      Describe App Inventor in one line? MIT App Inventor is an online platform to learn/build apps without coding!&nbsp; App Inventor is a web application environment originally developed by Google, and now maintained by Massachusetts Institute of Technology (MIT) App Inventor makes developing apps easier&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://blogs.xyberneo.com/media/posts/3/PfLREOhZSm60VskciHxazGUFcJ9Dy52c6Sexgd3Sad-0as4k_PMsPnr3Mm9DAGZeeRHdt2G0HcY37XdpAkfPbDeSppBtJo8N9mi27ECGw8UfKh7EKZROqs4Ws2048-2.png" alt="" />
                 
   <p>
     Describe App Inventor in one line?<br>MIT App Inventor is an online platform to learn/build apps without coding!&nbsp;
