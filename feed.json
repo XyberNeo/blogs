@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "XyberBlogs",
+    "description": "",
+    "home_page_url": "https://blogs.xyberneo.com",
+    "feed_url": "https://blogs.xyberneo.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aditya Chaturvedi"
+    },
+    "items": [
+        {
+            "id": "https://blogs.xyberneo.com/test-post/",
+            "url": "https://blogs.xyberneo.com/test-post/",
+            "title": "Test Post",
+            "summary": " Maayur is pro, I am Boss ",
+            "content_html": "\n  <p>\n    Maayur is pro, I am Boss\n  </p>",
+            "author": {
+                "name": "Aditya Chaturvedi"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-01T16:16:02+05:30",
+            "date_modified": "2021-07-01T16:16:02+05:30"
+        }
+    ]
+}
