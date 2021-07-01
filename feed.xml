@@ -3,7 +3,7 @@
     <title>XyberBlogs</title>
     <link href="https://blogs.xyberneo.com/feed.xml" rel="self" />
     <link href="https://blogs.xyberneo.com" />
-    <updated>2021-07-01T17:11:17+05:30</updated>
+    <updated>2021-07-01T17:14:33+05:30</updated>
     <author>
         <name>Aditya Chaturvedi</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://blogs.xyberneo.com/kodular-no-code-app-creator/</id>
             <category term="AI2"/>
 
-        <updated>2021-07-01T17:11:17+05:30</updated>
+        <updated>2021-07-01T17:14:33+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blogs.xyberneo.com/media/posts/2/Itzm1mtZenEu9gJ5VtvCnWmXtHac_f-4CSjHBXGh55ceDGO0io2xWeax60Lr_VRV_TiMqTCph1xPl1-sO-TA3CU3122N2v49CmVMQJPI7vu5Z9tmze0s2048-2.png" alt="Kodular_homepage" />
@@ -69,7 +69,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blogs.xyberneo.com/media/posts/2/Screenshot-2021-07-01-at-5.03.50-PM.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blogs.xyberneo.com/media/posts/2/responsive/Screenshot-2021-07-01-at-5.03.50-PM-xs.png 300w ,https://blogs.xyberneo.com/media/posts/2/responsive/Screenshot-2021-07-01-at-5.03.50-PM-sm.png 480w ,https://blogs.xyberneo.com/media/posts/2/responsive/Screenshot-2021-07-01-at-5.03.50-PM-md.png 768w ,https://blogs.xyberneo.com/media/posts/2/responsive/Screenshot-2021-07-01-at-5.03.50-PM-lg.png 1024w ,https://blogs.xyberneo.com/media/posts/2/responsive/Screenshot-2021-07-01-at-5.03.50-PM-xl.png 1360w ,https://blogs.xyberneo.com/media/posts/2/responsive/Screenshot-2021-07-01-at-5.03.50-PM-2xl.png 1600w"  height="222" width="464" alt="" />
+      <img loading="lazy" src="https://blogs.xyberneo.com/media/posts/2/888.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blogs.xyberneo.com/media/posts/2/responsive/888-xs.PNG 300w ,https://blogs.xyberneo.com/media/posts/2/responsive/888-sm.PNG 480w ,https://blogs.xyberneo.com/media/posts/2/responsive/888-md.PNG 768w ,https://blogs.xyberneo.com/media/posts/2/responsive/888-lg.PNG 1024w ,https://blogs.xyberneo.com/media/posts/2/responsive/888-xl.PNG 1360w ,https://blogs.xyberneo.com/media/posts/2/responsive/888-2xl.PNG 1600w"  height="916" width="1920" alt="" />
       
     </figure>
 
@@ -90,33 +90,7 @@
   </p>
 
   <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Test Post</title>
-        <author>
-            <name>Aditya Chaturvedi</name>
-        </author>
-        <link href="https://blogs.xyberneo.com/test-post/"/>
-        <id>https://blogs.xyberneo.com/test-post/</id>
-            <category term="AI2"/>
-
-        <updated>2021-07-01T16:36:51+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blogs.xyberneo.com/media/posts/1/technews-480x304.jpg" alt="" />
-                     Maayur is pro, I am Boss 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blogs.xyberneo.com/media/posts/1/technews-480x304.jpg" alt="" />
-                
-  <p>
-    Maayur is pro, I am Boss
+    Happy Koding<br><br>Peace ☮️
   </p>
             ]]>
         </content>
