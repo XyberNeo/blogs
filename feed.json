@@ -15,13 +15,15 @@
             "title": "Test Post",
             "summary": " Maayur is pro, I am Boss ",
             "content_html": "\n  <p>\n    Maayur is pro, I am Boss\n  </p>",
+            "image": "https://blogs.xyberneo.com/media/posts/1/technews-480x304.jpg",
             "author": {
                 "name": "Aditya Chaturvedi"
             },
             "tags": [
+                   "AI2"
             ],
             "date_published": "2021-07-01T16:16:02+05:30",
-            "date_modified": "2021-07-01T16:16:02+05:30"
+            "date_modified": "2021-07-01T16:36:51+05:30"
         }
     ]
 }

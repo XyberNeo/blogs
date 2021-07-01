@@ -3,7 +3,7 @@
     <title>XyberBlogs</title>
     <link href="https://blogs.xyberneo.com/feed.xml" rel="self" />
     <link href="https://blogs.xyberneo.com" />
-    <updated>2021-07-01T16:16:02+05:30</updated>
+    <updated>2021-07-01T16:36:51+05:30</updated>
     <author>
         <name>Aditya Chaturvedi</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://blogs.xyberneo.com/test-post/"/>
         <id>https://blogs.xyberneo.com/test-post/</id>
+            <category term="AI2"/>
 
-        <updated>2021-07-01T16:16:02+05:30</updated>
+        <updated>2021-07-01T16:36:51+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blogs.xyberneo.com/media/posts/1/technews-480x304.jpg" alt="" />
                      Maayur is pro, I am Boss 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://blogs.xyberneo.com/media/posts/1/technews-480x304.jpg" alt="" />
                 
   <p>
     Maayur is pro, I am Boss
