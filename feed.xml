@@ -3,7 +3,7 @@
     <title>XyberBlogs</title>
     <link href="https://blogs.xyberneo.com/feed.xml" rel="self" />
     <link href="https://blogs.xyberneo.com" />
-    <updated>2021-07-02T03:58:19+05:30</updated>
+    <updated>2021-07-05T04:36:29+05:30</updated>
     <author>
         <name>Aditya Chaturvedi</name>
     </author>
@@ -17,15 +17,61 @@
         <link href="https://blogs.xyberneo.com/app-inventor-and-distributions-or-q-and-a-or-intresting/"/>
         <id>https://blogs.xyberneo.com/app-inventor-and-distributions-or-q-and-a-or-intresting/</id>
 
-        <updated>2021-07-02T03:58:19+05:30</updated>
+        <updated>2021-07-05T04:36:29+05:30</updated>
             <summary>
                 <![CDATA[
-                     
+                     Evan Patton, lead software engineer for the MIT App Inventor&nbsp; What are your views on the recent increase in the app inventor clones and their future ? App Inventor is open source so it's great to see others looking to fill gaps in functionality&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
+                <hr class="separator separator--dots" />
+
+  <ul>
+    <li>Evan Patton, lead software engineer for the MIT App Inventor&nbsp;</li>
+  </ul>
+
+  <p>
+    <em>What are your views on the recent increase in the app inventor clones and their future ?</em>
+  </p>
+
+  <p>
+    App Inventor is open source so it's great to see others looking to fill gaps in functionality that we have passed up on for one reason or another. I can't really speculate as to the long term viability of any of the downstream distributions as I have no involvement with them, but I do wish them all the best and encourage them to contribute back to App Inventor for the benefit of everyone.
+  </p>
+
+  <p>
+    <em>How do you see App Inventor and it's distributions like kodular in next 5 years ?</em>
+  </p>
+
+  <p>
+    Obviously each distribution has its different priorities. With respect to App Inventor, we have a number of research goals that we are interested. iOS support is the big ticket item we're invested in at a technical level, but we're also doing a lot of research into artificial intelligence and machine learning components. There's also a renewed interest in IOT type applications.
+  </p>
+
+  <p>
+    <em>Your views on iOS apps development with AI2 ?</em>
+  </p>
+
+  <p>
+    We continue to work with Apple App Store Review to get the MIT App Inventor Companion approved for use on iOS. They have more stringent requirements than Google so it's taking more time than I think most folks would like, but we have to play by their rules. We have a couple thousand beta testers using it at this point and it seems to be going fairly well. Internally we're also turning our attention toward the build system and what that will entail from an infrastructure perspective.
+  </p>
+
+  <p>
+    <em>Can AI2 completely replace Android Studio in future ?</em>
+  </p>
+
+  <p>
+    There are fundamental differences between the two platforms that I see no reason one to replace the other. Our aims are mainly at computer science education and empowering people to build apps for change. Android Studio gives much more flexibility but at the cost of additional complexity. There will always be tasks one can do in Android Studio but not in App Inventor.
+  </p>
+
+  <p>
+    <em>And finally, some tips or suggestions to new young student/users using these platforms !</em>
+  </p>
+
+  <p>
+    I think the most important piece of advice I can give is that it's okay to make mistakes. Even professional programmers can introduce bugs into their code (I certainly do), and so when you're learning a new tool or technology you will inevitably make a mistake somewhere along the line. It is expected. I think one of the real benefits of how App Inventor is set up is that you can use the companion app to test frequently and see how your changes affect the behavior of your app. When you encounter a bug, you can try to fix it right then and there by experimenting with changing the blocks. It's an extremely powerful tool to learn from your mistakes and makes you better at the task you're working on.<br> <br>A second important piece of advice I'd give is that through App Inventor you have a great opportunity to use apps to shape the world around you. We've seem some fantastic apps over the years from both young students and adults who have little to no coding experience but see a struggle of a friend or family member and make an impact in their lives. That is an extremely powerful gift. So as you use App Inventor, think about the challenges you see in the world and in your communities and think about how the skills you are learning could be put to use to improve someone's life or the lives of many.<em><br></em><br>
+  </p>
+<hr class="separator separator--dots" />
+
   <p>
     
   </p>
