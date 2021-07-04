@@ -3,7 +3,7 @@
     <title>XyberBlogs</title>
     <link href="https://blogs.xyberneo.com/feed.xml" rel="self" />
     <link href="https://blogs.xyberneo.com" />
-    <updated>2021-07-05T04:36:29+05:30</updated>
+    <updated>2021-07-05T04:49:35+05:30</updated>
     <author>
         <name>Aditya Chaturvedi</name>
     </author>
@@ -16,16 +16,24 @@
         </author>
         <link href="https://blogs.xyberneo.com/app-inventor-and-distributions-or-q-and-a-or-intresting/"/>
         <id>https://blogs.xyberneo.com/app-inventor-and-distributions-or-q-and-a-or-intresting/</id>
+            <category term="AI2"/>
 
-        <updated>2021-07-05T04:36:29+05:30</updated>
+        <updated>2021-07-05T04:49:35+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blogs.xyberneo.com/media/posts/4/Screenshot-2021-07-05-at-4.48.51-AM-2.png" alt="" />
                      Evan Patton, lead software engineer for the MIT App Inventor&nbsp; What are your views on the recent increase in the app inventor clones and their future ? App Inventor is open source so it's great to see others looking to fill gaps in functionality&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://blogs.xyberneo.com/media/posts/4/Screenshot-2021-07-05-at-4.48.51-AM-2.png" alt="" />
                 <hr class="separator separator--dots" />
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blogs.xyberneo.com/media/posts/4/Screenshot-2021-07-05-at-4.48.51-AM.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blogs.xyberneo.com/media/posts/4/responsive/Screenshot-2021-07-05-at-4.48.51-AM-xs.png 300w ,https://blogs.xyberneo.com/media/posts/4/responsive/Screenshot-2021-07-05-at-4.48.51-AM-sm.png 480w ,https://blogs.xyberneo.com/media/posts/4/responsive/Screenshot-2021-07-05-at-4.48.51-AM-md.png 768w ,https://blogs.xyberneo.com/media/posts/4/responsive/Screenshot-2021-07-05-at-4.48.51-AM-lg.png 1024w ,https://blogs.xyberneo.com/media/posts/4/responsive/Screenshot-2021-07-05-at-4.48.51-AM-xl.png 1360w ,https://blogs.xyberneo.com/media/posts/4/responsive/Screenshot-2021-07-05-at-4.48.51-AM-2xl.png 1600w"  height="129" width="369" alt="" />
+      
+    </figure>
 
   <ul>
     <li>Evan Patton, lead software engineer for the MIT App Inventor&nbsp;</li>
@@ -72,8 +80,82 @@
   </p>
 <hr class="separator separator--dots" />
 
+  <ul>
+    <li>Peter Mathijssen, Moderator AI2/Kodular</li>
+  </ul>
+
   <p>
-    
+    <em>What are your views on the recent increase in the app inventor clones and their future?</em>
+  </p>
+
+  <p>
+    I really think that all the App Inventor clones that are popping up everywhere is a bad thing. A lot of the, sometimes really young, developers only change the interface of App Inventor and think they made another builder are can call themselves developer altogether. We see a number of them stealing code from other builders because they don't understand the concept of copyright. <br><br> <br><br>A lot of those builders already disappeared or are not developed anymore. This will happen over and over again because starting a builder is more than developing the software. You have to have a strong dedicated team and a good plan to make it work. You can see good examples of builders that are succeeding besides App Inventor like Kodular and Thunkable. Builders like Kodular and Thunkable still remember where their roots are and give back to App Inventor in the form of code or advise. <br><br> <br><br>So there are a lot of really small teams trying to compete with each other instead of working together. Users could learn so much by becoming part of the users that contribute to App Inventor. Contribute code, learn how to work together, learn how to write clean code, develop new components, be part of the Google Summer of Code, etc, etc.
+  </p>
+
+  <p>
+    <em>How do you see App Inventor and it's distributions like Kodular in next 5 years?</em>
+  </p>
+
+  <p>
+    The no-code movement is not going to be stopped, so their importance will become greater and greater. A lot of those builders are payed but builders like App Inventor and Kodular are free to use. Kodular for instance will only charge you if you decide to monetize your app. That is a fair deal I think.<br><br> <br><br>Android and iPhone still will be the dominant operating systems on smartphones i think. So tools for writing apps like App Inventor and Kodular will still be around and will take their rightfull place among the other software. Look at for instance what Scratch is doing. In February 2021 it is in 21st place of most popular programming languages according to the TIOBE index.
+  </p>
+
+  <p>
+    <em>Your views on iOS apps development with AI2?</em>&nbsp;
+  </p>
+
+  <p>
+    Most people in the world use Android phones but from september 2020 there are more then 1 billion active iphone users in the world. App Inventors goal of democratizing software development by empowering all people, especially young people, to move from technology consumption to technology creation will get more meaning if iPhone users will also have the ability to make their own apps.
+  </p>
+
+  <p>
+    <em>Can AI2 completely replace Android Studio in future?</em>
+  </p>
+
+  <p>
+    In theory it could, but i don't think that will happen. What App Inventor also tries to do is to get children interested in programming. Chances are they will switch to other languages after they reach the current limitations of App Inventor.
+  </p>
+
+  <p>
+    <em>Some tips or suggestions to new young student/users using these platforms !</em>
+  </p>
+
+  <p>
+    Take your time to learn. I see users starting with a really big project without knowing the basics of blockly based builders. Start small and then extend your app, piece by piece. Read books/websites, search online, try different methods, view videos, etc, etc. Don't expect to be an expert immediatelly. But above all enjoy and have fun.
+  </p>
+<hr class="separator separator--dots" />
+
+  <ul>
+    <li>Taifun, PuraVida Apps</li>
+  </ul>
+
+  <p>
+    <em>What are your views on the recent increase in the app inventor clones and their future ?</em>
+  </p>
+
+  <p>
+    generally good… however the market will decide, what happens…<br>usually people do not like to pay anything to get everything…<br>new distributions need something to stand out to attract new users…
+  </p>
+
+  <p>
+    <em>How do you see App Inventor and it’s distributions like kodular in next 5 years ?</em>
+  </p>
+
+  <p>
+    MIT App Inventor still will be there, there is MIT behind and as it is open source it will live “forever”…<br><br>distributions usually are closed source, so it will depend on the teams… an important part is being able to pay the bills, for example server costs as well as improving the builder, so there must be something to generate income… without that and without a large user base there will be no future for a distribution.
+  </p>
+
+  <p>
+    <em>Can AI2 completely replace Android Studio in future ?</em>
+  </p>
+
+  <p>
+    no, blocks will always have their limitations… to have real flexibility you will have to work in Java/Kotlin<br>Some tips or suggestions to new young student/users using these platforms.<br><a href="https://community.kodular.io/t/general-tips-and-tricks-for-app-inventor-kodular/1084?u=aditya_chaturvedi" target="_blank">General Tips and Tricks for App Inventor/Kodular <br></a><a href="https://puravidaapps.com/learn.php" target="_blank">Top 5 Tips: How to learn App Inventor or Kodula</a><a href="https://puravidaapps.com/learn.php" target="_blank">r</a>
+  </p>
+<hr class="separator separator--dots" />
+
+  <p>
+    Hope this article helped you to gain some new and Interesting Information, if so then share this to your Family and Friends also.<br><br><br>Have Questions about this article or another, Join our support group on <a href="https://t.me/XyberNeoExtensions" target="_blank">telegram</a> and ask your doubts.<br><br><br>Peace ☮️  <br><br>
   </p>
             ]]>
         </content>
