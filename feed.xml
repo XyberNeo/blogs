@@ -3,7 +3,7 @@
     <title>XyberBlogs</title>
     <link href="https://blogs.xyberneo.com/feed.xml" rel="self" />
     <link href="https://blogs.xyberneo.com" />
-    <updated>2021-07-05T04:49:35+05:30</updated>
+    <updated>2021-08-01T22:03:10+05:30</updated>
     <author>
         <name>Aditya Chaturvedi</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://blogs.xyberneo.com/app-inventor-and-distributions-or-q-and-a-or-intresting/</id>
             <category term="AI2"/>
 
-        <updated>2021-07-05T04:49:35+05:30</updated>
+        <updated>2021-08-01T22:03:10+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blogs.xyberneo.com/media/posts/4/Screenshot-2021-07-05-at-4.48.51-AM-2.png" alt="" />
@@ -150,7 +150,16 @@
   </p>
 
   <p>
-    no, blocks will always have their limitations… to have real flexibility you will have to work in Java/Kotlin<br>Some tips or suggestions to new young student/users using these platforms.<br><a href="https://community.kodular.io/t/general-tips-and-tricks-for-app-inventor-kodular/1084?u=aditya_chaturvedi" target="_blank">General Tips and Tricks for App Inventor/Kodular <br></a><a href="https://puravidaapps.com/learn.php" target="_blank">Top 5 Tips: How to learn App Inventor or Kodula</a><a href="https://puravidaapps.com/learn.php" target="_blank">r</a>
+    no, blocks will always have their limitations… to have real flexibility you will have to work in Java/Kotlin<br>Some tips or suggestions to new young student/users using these platforms.
+  </p>
+<div><code>
+<?php
+echo date("Y");
+?>
+<code></div>
+
+  <p>
+    <a href="https://community.kodular.io/t/general-tips-and-tricks-for-app-inventor-kodular/1084?u=aditya_chaturvedi" target="_blank">General Tips and Tricks for App Inventor/Kodular <br></a><a href="https://puravidaapps.com/learn.php" target="_blank">Top 5 Tips: How to learn App Inventor or Kodula</a><a href="https://puravidaapps.com/learn.php" target="_blank">r</a>
   </p>
 <hr class="separator separator--dots" />
 
